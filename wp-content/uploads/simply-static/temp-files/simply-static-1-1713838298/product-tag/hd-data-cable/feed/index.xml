@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hd-data-cable &#8211; electricbuy</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>electronic relaive products sold here</description>
+	<lastBuildDate>Tue, 16 Apr 2024 20:21:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/04/Electric-buy_logo-50x50.png</url>
+	<title>hd-data-cable &#8211; electricbuy</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SAS HD Data Server Raid Cable</title>
+		<link>./../../../product/sas-hd-data-server-raid-cable/index.html</link>
+					<comments>./../../../product/sas-hd-data-server-raid-cable/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[lekhitanand456]]></dc:creator>
+		<pubDate>Fri, 05 Apr 2024 10:57:16 +0000</pubDate>
+				<guid isPermaLink="false">./../../../index.html?post_type=product#038;p=25</guid>
+
+					<description><![CDATA[External HD SAS SFF-8644 Cable Assembly,1.5-meter
+AWG30 Twinaxial 8-pair high-bandwidth low-skew wire
+Impedance = 100 Ohms
+External cabling solution for connecting Mini-SAS HD devices
+Up to 12Gbps data rates per channel]]></description>
+										<content:encoded><![CDATA[<p><a href="./../../../index.html?attachment_id=26" rel="attachment wp-att-26"><img fetchpriority="high" decoding="async" class="size-medium wp-image-26 alignleft" src="./../../../wp-content/uploads/2024/04/1-1-300x300.jpg" alt="SAS HD Data Server Raid Cable" width="300" height="300" srcset="./../../../wp-content/uploads/2024/04/1-1-300x300.jpg 300w, ./../../../wp-content/uploads/2024/04/1-1-150x150.jpg 150w, ./../../../wp-content/uploads/2024/04/1-1-100x100.jpg 100w, ./../../../wp-content/uploads/2024/04/1-1-50x50.jpg 50w, ./../../../wp-content/uploads/2024/04/1-1.jpg 342w" sizes="(max-width: 300px) 100vw, 300px" /></a>SFF-8644 to SFF-8644 Mini SAS HD Data Server Raid Cable, 12G External Mini-SAS 26pin Cable for Hard Disk Server, SAN, Raid Card, 100-Ohm, 1.5-Meter(4.9-ft)</p>
+<p>Brand  :10Gtek<br />
+Compatible Devices: Server<br />
+Special Feature: High Speed<br />
+Color :SFF-8644 to SFF-8644<br />
+Connector Gender Male-to-Male</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/sas-hd-data-server-raid-cable/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
